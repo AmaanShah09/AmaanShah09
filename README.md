@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AWS Cloud Engineer from India</h3>
 
 ## 👩‍💻 About Me
-Hello there! I'm Amaan Shah,I am Amaan Shah, Junior DevOps engineer specialized in AWS. I design and implement scalable, secure cloud solutions, with hands-on experience in RHCSA and RHCE. Passionate about continuous learning, I aim to create reliable, automated workflows that enhance software delivery. My web development skills further enable me to deploy comprehensive cloud-based applications. Eager to learn from experienced professionals, I look forward to collaborating on innovative projects and driving the future of cloud technology. 👨🏻‍💻.
+Hello there! I'm Amaan Shah, I am Amaan Shah, Junior DevOps engineer specialized in AWS. I design and implement scalable, secure cloud solutions, with hands-on experience in RHCSA and RHCE. Passionate about continuous learning, I aim to create reliable, automated workflows that enhance software delivery. My web development skills further enable me to deploy comprehensive cloud-based applications. Eager to learn from experienced professionals, I look forward to collaborating on innovative projects and driving the future of cloud technology. 👨🏻‍💻.
 
 ## 💡 Interests and Expertise
 - ☁️ AWS Cloud ENgineer
