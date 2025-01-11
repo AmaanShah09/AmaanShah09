@@ -15,7 +15,7 @@ Hello there! I'm Amaan Shah, I am Amaan Shah, Junior DevOps engineer specialized
 
 - 👨‍💻 All of my projects are available at [https://portfolio-amaan-4f7cd.web.app/](https://portfolio-amaan-4f7cd.web.app/)
 
-- 💬 Ask me about **AWS Cloud**
+- 💬 Ask me about **AWS Cloud and Linux**
 
 - 📫 How to reach me **amaanshah2001@gmail.com**
 
