@@ -8,7 +8,6 @@ Hello there! I'm Amaan Shah, I am Amaan Shah, Junior DevOps engineer specialized
 - ☁️ AWS Cloud Engineer
 - 💻 Linux Administrator
  
-
 - 👯 I’m looking to collaborate on **AWS Projects**
 
 - 🤝 I’m looking for help with **AWS Cloud**
